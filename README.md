@@ -22,15 +22,3 @@ The application simulates sending an email and an SMS message after authenticati
   Email authentication failed for user: alice
   SMS authentication failed for user: anyuser
 ```
-
-
-## 📁 Folder Structure
-src/
-├── main/
-│ ├── App.java
-│ ├── BasicLogin.java
-│ ├── OAuthLogin.java
-│ ├── ILogin.java
-│ ├── Message.java
-│ ├── EmailMessage.java
-│ └── SMSMessage.java
